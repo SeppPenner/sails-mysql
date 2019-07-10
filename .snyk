@@ -12,3 +12,7 @@ patch:
         patched: '2019-07-04T00:11:47.066Z'
     - machinepack-mysql > waterline-sql-builder > waterline-utils > async > lodash:
         patched: '2019-07-04T00:11:47.066Z'
+    - snyk > snyk-mvn-plugin > lodash:
+        patched: '2019-07-10T07:38:18.269Z'
+    - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
+        patched: '2019-07-10T07:38:18.269Z'
